@@ -1,0 +1,7 @@
+.hero-media .owl-carousel .owl-nav a, .hero-media .owl-carousel .owl-expand a {
+  height: 108px;
+  line-height: 108px;
+  color: #fff;
+  display: none;
+}
+

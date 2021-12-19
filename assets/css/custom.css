@@ -5,3 +5,19 @@
   display: none;
 }
 
+.feature {
+  text-align: left;
+}
+
+.text-dark {
+  color: black;
+}
+
+.my-theme-color {
+  color: #F68338;
+}
+
+.my-theme-back {
+  background: #F68338;
+  border: none;
+}
